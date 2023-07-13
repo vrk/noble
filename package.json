@@ -40,9 +40,6 @@
     "node-addon-api": "^4.3.0",
     "node-gyp-build": "^4.5.0"
   },
-  "optionalDependencies": {
-    "@abandonware/bluetooth-hci-socket": "^0.5.3-10"
-  },
   "devDependencies": {
     "async": "^3.2.4",
     "cross-env": "^7.0.3",
